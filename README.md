@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
