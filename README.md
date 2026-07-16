@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0169-majority-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,14 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
