@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
