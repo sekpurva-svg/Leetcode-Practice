@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
